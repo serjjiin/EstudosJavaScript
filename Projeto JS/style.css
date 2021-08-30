@@ -1,0 +1,16 @@
+
+  body {
+    font-family: system-ui;
+    background: #002d52af;
+    color: rgb(0, 0, 0);
+    font: normal Arial;
+  }
+  
+  h1{
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    background-color: orange;
+  }
+  h2{
+    background-color: blueviolet;
+  }
